@@ -1,4 +1,4 @@
-# Clase5_IntroJavascript
+# Clase6_IntroJavascript
 
 Test URL: https://juliancrespi.github.io/Clase6_IntroJavascript/
 
